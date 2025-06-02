@@ -10,8 +10,11 @@ A simple app to search and save movies and animes. Built with PySide6.
 Important: Replace the placeholder API key in api.py with your own TMDB API key.
 
 Screenshots:
-Movie mode:
+
+**Movie mode:**
+
 ![Main](screenshot_movie.png)
 
-Anime mode:
+**Anime mode:**
+
 ![Main](screenshot_anime.png)
